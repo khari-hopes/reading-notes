@@ -13,3 +13,4 @@ developing new skills or achieving goals through how much time and effort you pu
 
 ##### Contact Me
 Khari Hopes
+- [Linkedin](https://www.linkedin.com/in/kharihopes/)
