@@ -3,13 +3,10 @@
 # __reading-notes__ _Khari Hopes_
 A place to view all of my notes for Codex Academy.
 
-## second level heading
-
-### third level heading
-
-
 ## Growth Mindset
 Developing new skills or achieving goals through how much time and effort you put into it
+
+### third level heading
 
 ## __Contact Me__
 - [Linkedin](https://www.linkedin.com/in/kharihopes/)
