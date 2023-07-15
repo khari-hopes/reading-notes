@@ -1,4 +1,4 @@
-![header of a beach]([https://myoctocat.com/assets/images/base-octocat.svg](https://fraserisland-australia.com/wp-content/uploads/2016/11/8.Fraser-Island-Beaches-Header.jpg))
+![header of a beach]([https://myoctocat.com/assets/images/base-octocat.svg](https://fraserisland-australia.com/wp-content/uploads/2016/11/8.Fraser-Island-Beaches-Header.jpg)
 
 # reading-notes
 A place to view all of my notes for Codex Academy.
