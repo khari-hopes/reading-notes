@@ -2,7 +2,7 @@
 
 # __reading-notes__ _Khari Hopes_
 Originally from Wisconsin but ventured off to Louisiana
-##### <sub>A place to view all of my notes for Codex Academy.
+### <sub>A place to view all of my notes for Codex Academy.
 
 ## Growth Mindset
 A growth mindset is developing new skills or achieving goals through how much time and effort you put into it. With a growth mindset, individuals are more likely to embrace new experiences, take on challenges, and continuously strive for improvement.
