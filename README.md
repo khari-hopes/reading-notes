@@ -1,6 +1,6 @@
 ![header of a beach](https://fraserisland-australia.com/wp-content/uploads/2016/11/8.Fraser-Island-Beaches-Header.jpg)
 
-# reading-notes
+# __reading-notes__
 A place to view all of my notes for Codex Academy.
 
 ## second level heading
