@@ -2,7 +2,7 @@
 
 # __reading-notes__ _Khari Hopes_
 Originally from Wisconsin but ventured off to Louisiana
-''''
+```
 <sub>A place to view all of my notes for Codex Academy.
 
 ## Growth Mindset
