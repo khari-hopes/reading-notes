@@ -15,7 +15,7 @@ A growth mindset is developing new skills or achieving goals through how much ti
   * You can be told everything you need to know to succeed but if you don't apply any of the information you'll be right where you started.
 * ASK QUESTIONS
   * If stuck ask as many questions as needed in order to process the information. No question is a dumb question.
-* TAKE CRITICISM 
+* _TAKE CRITICISM_ 
   * Grow from all criticism. Whether you think what was said is good or bad it was said for you to know and better yourself.
   
 ## __Contact Me__
