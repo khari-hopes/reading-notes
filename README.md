@@ -10,7 +10,7 @@ A growth mindset is developing new skills or achieving goals through how much ti
 
 ![brain as a tree](https://cdn.pixabay.com/photo/2023/04/10/00/39/ai-generated-7912531_1280.jpg)
 * PUT FORTH EFFORT
-  * You can get told everything you need to know to succeed but if you don't apply any of the information you'll be right where you started.
+  * You can be told everything you need to know to succeed but if you don't apply any of the information you'll be right where you started.
 * ASK QUESTIONS
   * If stuck ask as many questions as needed in order to process the information. No question is a dumb question.
 * TAKE CRITICISM 
