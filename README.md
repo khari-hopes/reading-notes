@@ -9,8 +9,8 @@ A place to view all of my notes for Codex Academy.
 [Github](https://github.com/khari-hopes/)
 
 #### Growth Mindset
-developing new skills or achieving goals through how much time and effort you put into it
+Developing new skills or achieving goals through how much time and effort you put into it
 
 ##### Contact Me
-**__**Khari Hopes**__**
+__Khari Hopes__
 - [Linkedin](https://www.linkedin.com/in/kharihopes/)
