@@ -21,4 +21,4 @@ A growth mindset is developing new skills or achieving goals through how much ti
 ## __Contact Me__
 - [Linkedin](https://www.linkedin.com/in/kharihopes/)
 - [Github](https://github.com/khari-hopes/)
-###### [Page2](https://khari-hopes.github.io/page-2)https://khari-hopes.github.io/page-2)
+###### [Page2](https://khari-hopes.github.io/page-2)
