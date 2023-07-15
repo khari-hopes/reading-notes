@@ -9,7 +9,7 @@ To me a growth mindset is developing new skills or achieving goals through how m
 ### Steps Towards Growth Mindset
 ![brain as a tree](https://cdn.pixabay.com/photo/2023/04/10/00/39/ai-generated-7912531_1280.jpg)
 * put forth effort
-**  
+**  fgd
 * ask questions
 * Criticism 
 
