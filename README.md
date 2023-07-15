@@ -12,5 +12,5 @@ A place to view all of my notes for Codex Academy.
 developing new skills or achieving goals through how much time and effort you put into it
 
 ##### Contact Me
-_Khari_ _Hopes_
+_Khari_Hopes
 - [Linkedin](https://www.linkedin.com/in/kharihopes/)
