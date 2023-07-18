@@ -5,6 +5,56 @@ Originally from Wisconsin but ventured off to Louisiana
 ###
 <sub>A place to view all of my notes for Codex Academy.
 
+## Code 102 Reading Notes
+
+[Class 01](code-102/class-01.md)
+
+[Class 02](code-102/class-02.md)
+
+[Class 03](code-102/class-03.md)
+
+[Class 04](code-102/class-04.md)
+
+[Class 05](code-102/class-05.md)
+
+[Class 06](code-102/class-06.md)
+
+[Class 07](code-102/class-07.md)
+
+[Class 08](code-102/class-08.md)
+
+## Code 201 Reading Notes
+
+[Class 01](code-201/class-01.md)
+
+[Class 02](code-201/class-02.md)
+
+[Class 03](code-201/class-03.md)
+
+[Class 04](code-201/class-04.md)
+
+[Class 05](code-201/class-05.md)
+
+[Class 06](code-201/class-06.md)
+
+[Class 07](code-201/class-07.md)
+
+[Class 08](code-201/class-08.md)
+
+[Class 09](code-201/class-09.md)
+
+[Class 10](code-201/class-10.md)
+
+[Class 11](code-201/class-11.md)
+
+[Class 12](code-201/class-12.md)
+
+[Class 13](code-201/class-13.md)
+
+[Class 14](code-201/class-14.md)
+
+[Class 15](code-201/class-15.md)
+
 ## Growth Mindset
 A growth mindset is developing new skills or achieving goals through how much time and effort you put into it. With a growth mindset, individuals are more likely to embrace new experiences, take on challenges, and continuously strive for improvement.
 
@@ -21,4 +71,4 @@ A growth mindset is developing new skills or achieving goals through how much ti
 ## __Contact Me__
 - [Linkedin](https://www.linkedin.com/in/kharihopes/)
 - [Github](https://github.com/khari-hopes/)
-###### [Page2](https://khari-hopes.github.io/page-2) [Page3](https://khari-hopes.github.io/page-3/)
+
