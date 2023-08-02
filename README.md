@@ -5,7 +5,7 @@ Originally from Wisconsin but ventured off to Louisiana
 ###
 <sub>A place to view all of my notes for Codex Academy.
 
-## Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 [Class 01](code-102/class-01.md)
 
@@ -23,7 +23,7 @@ Originally from Wisconsin but ventured off to Louisiana
 
 [Class 08](code-102/class-08.md)
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 [Class 01](code-201/class-01.md)
 
@@ -54,6 +54,11 @@ Originally from Wisconsin but ventured off to Louisiana
 [Class 14](code-201/class-14.md)
 
 [Class 15](code-201/class-15.md)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
+
 
 ## Growth Mindset
 A growth mindset is developing new skills or achieving goals through how much time and effort you put into it. With a growth mindset, individuals are more likely to embrace new experiences, take on challenges, and continuously strive for improvement.
