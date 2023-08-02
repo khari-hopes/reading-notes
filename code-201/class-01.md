@@ -1,14 +1,14 @@
 ### Compose a short poem describing how HTTP sends data between computers.
 
-$~~~~~~~~~~~$ Through wires' web, packets take flight,
+Through wires' web, packets take flight, 
 
-$~~~~~~~~~~~$ HTTP guides them, swift and bright.
+HTTP guides them, swift and bright.
 
-$~~~~~~~~~~~$ Requests soar with hope's ignition,
+Requests soar with hope's ignition,
 
-$~~~~~~~~~~~$ Responses flow with data's mission.
+Responses flow with data's mission.
 
-$~~~~~~~~~~~$ Between computers, a digital connection, woven tight.
+Between computers, a digital connection, woven tight.
 
 ### How can you find images to add to a Website?
 - Google Images and a various amount of other websites.
