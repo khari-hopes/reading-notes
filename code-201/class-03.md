@@ -10,8 +10,8 @@
 ### Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
 - Once upon a time there was a home that nobody could get to because it was uniquely constructed. On the outermost side of the house was a river. Not your typical calm lazy river but the river styx that got rid of anyone or anything that came in contact with it. If magically you were to somehow get over that you would be met by a fence. No one has made it to the fence so I can't explain if that is an ordinary fence but beyond the fence lays another the most beautiful garden anyone has ever seen. Some of the locals call it Eden. No one has ever seen anyone leave or go into the home but every so often the inside of the house it lit.
 
--Eden: Garden surrounding the home. There for looks.
--Styx: River protecting the "island". River of death
+  - Eden: Garden surrounding the home essentially there for looks.
+  - Styx: River protecting the "island". Known as river of death
 ### List and describe the four parts of an HTML elements box as referred to by the box model.
 - The content box is the area where the content is displayed
 - The padding box is the area around the content as white space
