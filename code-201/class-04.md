@@ -30,3 +30,6 @@
 ## Miscellaneous
 
 ### Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
+- Gets you comfortable both hearing code and reading code. It make be easy to understand your code in your head but if you have to share the code to someone though a phone you need to be able to properly read the code off to them or the code will be wrong.
+
+## Things I want to know more about
