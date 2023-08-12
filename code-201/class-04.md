@@ -2,7 +2,7 @@
 ## Creating Hyperlinks
 
 ### To create a basic link, we wrap text or other content inside what element?
-- <a> or anchor element
+- <'a'> or anchor element
 ### The href attribute contains what information?
 - web adress
 ### What are some ways we can ensure links on our pages are accessible to all readers?
