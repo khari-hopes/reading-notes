@@ -8,3 +8,5 @@
 ### Local storage can store what type of data? How would you convert it to that type before storing?
 - strings
 - convert it to that type by using JSON
+
+## Things I want to know more about
